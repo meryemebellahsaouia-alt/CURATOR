@@ -167,7 +167,7 @@ When `File → Open Patient Folder` finds more than one complete CT → RTSTRUCT
 - **Open Patient Folder** — starts dataset discovery and, if needed, the chain-selection dialog described above.
 - **Resample & Export CT** / **Resample & Export Dose** / **Resample & Export Mask(s)** — three separate top-level File-menu items (not a submenu); each opens the **Resample & Export Options** dialog below, letting you set a target voxel spacing and/or output shape before writing a NIfTI file.
 
-<img src=".github/assets/resample_export_dialog.PNG" alt="Resample and Export Options dialog with spacing and shape fields" width="360"/>
+<img src=".github/assets/resample_export_dialog.png.PNG" alt="Resample and Export Options dialog with spacing and shape fields" width="360"/>
 
 Leaving **New Shape (voxels)** at `0, 0, 0` exports at the resampled spacing without cropping or padding to a fixed array size.
 
