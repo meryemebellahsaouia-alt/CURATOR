@@ -287,7 +287,7 @@ If you use this software in your research or a published manuscript, please cite
   year    = {2026},
   url     = {[https://github.com/meryemebellahsaouia-alt/CURATOR](https://github.com/meryemebellahsaouia-alt/CURATOR)}
 }
-
+```
 **Plain Text:**
 Bellahsaouia, M., Zidouh, I., & Chakir, E. (2026). CURATOR: A validated, auditable framework for curating DICOM-RT data for deep learning in radiotherapy [Software]. Available at: https://github.com/meryemebellahsaouia-alt/CURATOR
-```
+
