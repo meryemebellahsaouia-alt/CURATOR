@@ -277,7 +277,8 @@ If multiple chains exist, selection is explicit through the dialog described in 
 
 ## 14. Citation
 
-If you use this software in your research or a published manuscript, please cite it as follows.
+If you use this software in your research or a published manuscript, please cite it as follows:
+
 **BibTeX:**
 ```bibtex
 @software{curator_dicom_viewer,
