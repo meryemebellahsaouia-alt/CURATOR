@@ -162,18 +162,18 @@ When `File → Open Patient Folder` finds more than one complete CT → RTSTRUCT
 
 ### File Menu
 
-<img src=".github/assets/file_menu.png" alt="File menu: Open Patient Folder, Resample & Export CT, Resample & Export Dose, Resample & Export Mask(s)" width="260"/>
+<img src=".github/assets/file_menu.PNG" alt="File menu: Open Patient Folder, Resample & Export CT, Resample & Export Dose, Resample & Export Mask(s)" width="260"/>
 
 - **Open Patient Folder** — starts dataset discovery and, if needed, the chain-selection dialog described above.
 - **Resample & Export CT** / **Resample & Export Dose** / **Resample & Export Mask(s)** — three separate top-level File-menu items (not a submenu); each opens the **Resample & Export Options** dialog below, letting you set a target voxel spacing and/or output shape before writing a NIfTI file.
 
-<img src=".github/assets/resample_export_dialog.png" alt="Resample and Export Options dialog with spacing and shape fields" width="360"/>
+<img src=".github/assets/resample_export_dialog.PNG" alt="Resample and Export Options dialog with spacing and shape fields" width="360"/>
 
 Leaving **New Shape (voxels)** at `0, 0, 0` exports at the resampled spacing without cropping or padding to a fixed array size.
 
 ### View Menu
 
-<img src=".github/assets/view_menu.png" alt="View menu: 3D View Screenshot, Dark Mode, High Contrast, Colorblind-safe Structure Colors, UI Scale, Clear Diagnostics" width="260"/>
+<img src=".github/assets/view_menu.PNG" alt="View menu: 3D View Screenshot, Dark Mode, High Contrast, Colorblind-safe Structure Colors, UI Scale, Clear Diagnostics" width="260"/>
 
 - **3D View Screenshot** — saves the current 3D render as a PNG.
 - **Dark Mode / High Contrast / Colorblind-safe Structure Colors** — display presets; colorblind-safe mode remaps structure colors to a palette distinguishable under common color-vision deficiencies.
