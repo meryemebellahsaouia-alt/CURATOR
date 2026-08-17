@@ -1,0 +1,17 @@
+# requirements.txt
+#
+# This file lists the essential Python packages required to run the
+# DICOM Viewer application. To install all dependencies, run the
+# following command in your activated virtual environment:
+#
+# pip install -r requirements.txt
+#
+
+# --- Core Libraries ---
+numpy==1.22.4          # For numerical operations and array handling
+pydicom==2.3.0         # For parsing DICOM files (RTSTRUCT, RTPLAN, etc.)
+SimpleITK==2.4.1       # For loading and processing DICOM image series (CT, RTDOSE)
+matplotlib==3.7.5      # For plotting the Dose-Volume Histograms (DVH)
+scikit-image==0.19.2   # For polygon rasterization to create masks
+vtk==9.5.2             # For 2D/3D rendering and visualization
+PyQt6==6.7.1           # For the application's graphical user interface (GUI)
