@@ -282,7 +282,7 @@ If this software supports a manuscript or is used in published work, please cite
 ```bibtex
 @software{curator_dicom_viewer,
   author  = {<Bellahsaouia Meryeme, Zidouh Ibtissam, Chakir Elmahjoub>},
-  title   = {CURATOR: A DICOM RT Viewer},
+  title   = {CURATOR: A validated, auditable framework for curating DICOM-RT data for deep learning in radiotherapy},
   year    = {2026},
   url     = {<https://github.com/meryemebellahsaouia-alt/CURATOR>},
 }
