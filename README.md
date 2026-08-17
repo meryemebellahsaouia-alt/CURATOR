@@ -277,13 +277,14 @@ If multiple chains exist, selection is explicit through the dialog described in 
 
 ## 14. Citation
 
-If this software supports a manuscript or is used in published work, please cite it. 
-
+If you use this software in your research or a published manuscript, please cite it as follows.
+**BibTeX:**
 ```bibtex
 @software{curator_dicom_viewer,
-  author  = {<Bellahsaouia Meryeme, Zidouh Ibtissam, Chakir Elmahjoub>},
-  title   = {CURATOR: A validated, auditable framework for curating DICOM-RT data for deep learning in radiotherapy},
+  author  = {Bellahsaouia, Meryeme and Zidouh, Ibtissam and Chakir, Elmahjoub},
+  title   = {{CURATOR}: A validated, auditable framework for curating {DICOM-RT} data for deep learning in radiotherapy},
   year    = {2026},
-  url     = {<https://github.com/meryemebellahsaouia-alt/CURATOR>},
+  url     = {[https://github.com/meryemebellahsaouia-alt/CURATOR](https://github.com/meryemebellahsaouia-alt/CURATOR)}
 }
+
 ```
